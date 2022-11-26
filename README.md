@@ -3,8 +3,6 @@
 -  - Meticulous and disciplined, with a gift of analyzing business processes and developing useful metrics and benchmarks for tracking.
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abdulafeez-moshood/), [Twitter](https://twitter.com/AbdulAfeez_Mo)
-- 
-
 <!---
 AbdulAfeez001/AbdulAfeez001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
