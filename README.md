@@ -6,7 +6,8 @@
 - Meticulous and disciplined, with a gift of analyzing business processes and developing useful metrics and benchmarks for tracking.
 
 💻 Tools used: 
--Fabric
+
+- Fabric
 - Excel
 - Power Query
 - IBM Cognos
