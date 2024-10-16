@@ -1,6 +1,7 @@
-👋 Hi, 
+👋 Hello, 
 - I’m AbdulAfeez 
-- Process oriented Data Analyst with 3yrs track record of analyzing business intelligence and detailed reports to increase sales revenue. 
+- A results-driven professional, I am dedicated to maximizing operational efficiency and driving business success.
+- Collaborative and detail-oriented, I thrive in cross-functional teams, delivering impactful outcomes that propel organizations forward. 
 - Reduced cost of a retail chain by 15% by analyzing operating data. seeking to leverage skills and experience to guide business decisons. 
 - Meticulous and disciplined, with a gift of analyzing business processes and developing useful metrics and benchmarks for tracking.
 
