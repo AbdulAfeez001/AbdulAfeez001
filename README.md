@@ -10,10 +10,10 @@
 - Fabric
 - Excel
 - Power Query
+- Power Platform
 - IBM Cognos
 - Power BI
 - SQL
-- Python
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abdulafeez-moshood/) [Twitter](https://x.com/geekyabdul)
 <!---
